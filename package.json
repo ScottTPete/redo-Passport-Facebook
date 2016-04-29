@@ -1,0 +1,26 @@
+{
+  "name": "facebook-viewer",
+  "version": "1.0.0",
+  "description": "FacebookViewer\r ==============",
+  "main": "server.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[D\u001b[C\u001b[C\u001b[D\u001b[1;6C\u001b[C\u001b[server.js)",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottTPete/redo-Passport-Facebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottTPete/redo-Passport-Facebook/issues"
+  },
+  "homepage": "https://github.com/ScottTPete/redo-Passport-Facebook#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0"
+  }
+}
